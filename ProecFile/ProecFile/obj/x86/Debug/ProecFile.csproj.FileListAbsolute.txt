@@ -1,0 +1,27 @@
+D:\Projects\ProcessingFile\ProecFile\ProecFile\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\ProcessingFile\ProecFile\ProecFile\obj\x86\Debug\ProecFile.Main.resources
+D:\Projects\ProcessingFile\ProecFile\ProecFile\obj\x86\Debug\ProecFile.Properties.Resources.resources
+D:\Projects\ProcessingFile\ProecFile\ProecFile\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\ProcessingFile\ProecFile\ProecFile\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\ProcessingFile\ProecFile\ProecFile\bin\Debug\ProecFile.exe
+D:\Projects\ProcessingFile\ProecFile\ProecFile\bin\Debug\ProecFile.pdb
+D:\Projects\ProcessingFile\ProecFile\ProecFile\obj\x86\Debug\ProecFile.exe
+D:\Projects\ProcessingFile\ProecFile\ProecFile\obj\x86\Debug\ProecFile.pdb
+d:\我的文档\桌面\ProecFile\ProecFile\obj\x86\Debug\ProecFile.exe
+d:\我的文档\桌面\ProecFile\ProecFile\obj\x86\Debug\ProecFile.pdb
+d:\我的文档\桌面\ProecFile\ProecFile\bin\Debug\ProecFile.exe
+d:\我的文档\桌面\ProecFile\ProecFile\bin\Debug\ProecFile.pdb
+d:\我的文档\桌面\ProecFile\ProecFile\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\我的文档\桌面\ProecFile\ProecFile\obj\x86\Debug\ProecFile.Main.resources
+d:\我的文档\桌面\ProecFile\ProecFile\obj\x86\Debug\ProecFile.Properties.Resources.resources
+d:\我的文档\桌面\ProecFile\ProecFile\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\我的文档\桌面\ProecFile\ProecFile\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\user\桌面\ProecFile\ProecFile\obj\x86\Debug\ProecFile.exe
+C:\Documents and Settings\user\桌面\ProecFile\ProecFile\obj\x86\Debug\ProecFile.pdb
+C:\Documents and Settings\user\桌面\ProecFile\ProecFile\bin\Debug\ProecFile.exe
+C:\Documents and Settings\user\桌面\ProecFile\ProecFile\bin\Debug\ProecFile.pdb
+C:\Documents and Settings\user\桌面\ProecFile\ProecFile\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\桌面\ProecFile\ProecFile\obj\x86\Debug\ProecFile.Main.resources
+C:\Documents and Settings\user\桌面\ProecFile\ProecFile\obj\x86\Debug\ProecFile.Properties.Resources.resources
+C:\Documents and Settings\user\桌面\ProecFile\ProecFile\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\user\桌面\ProecFile\ProecFile\obj\x86\Debug\GenerateResource.write.1.tlog
